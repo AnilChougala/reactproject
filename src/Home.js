@@ -14,7 +14,7 @@ class Home extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React dhgdcf
           </a>
         </header>
       </div>
